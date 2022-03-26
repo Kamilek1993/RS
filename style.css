@@ -1,0 +1,36 @@
+body {
+  background-color: aquamarine;
+  color: darkgreen;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 10 px;
+}
+.name {
+  width: 50%;
+  padding: 75px;
+}
+.я {
+  width: 200;
+  border-radius: 30px;
+}
+.resume {
+  background-color: bisque;
+  width: 75%;
+  padding: 20px;
+  margin: auto;
+}
+.form-group label {
+  display:block
+}
+.form-group input {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    padding: 15px 0px 10px;
+    color: gray;
+    outline: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
